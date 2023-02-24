@@ -1,1 +1,1 @@
-# Transformers_from_scratch_with_JAX/Flax
+# Transformers from scratch with JAX/Flax
