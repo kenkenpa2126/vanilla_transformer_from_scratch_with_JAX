@@ -2,7 +2,7 @@
  This is a tutorial for understanding Transformer Models and how to modeling them with JAX/Flax!
  
 ## Contents
-### 1. *Vanilla* Transformer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kenkenpa2126/Transformers_from_scratch_with_JAX-Flax/blob/main/ColabNotebook/VanillaTransformer.ipynb) 
+### 1. *Vanilla* Transformer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kenkenpa2126/Transformers_from_scratch_with_JAX-Flax/blob/main/VanillaTransformer/VanillaTransformer.ipynb) 
   - As a first step, this notebook shows the implementation of *Vanilla* Transformer. 
     1. Implement *Vanilla* Transformer from scratch.
     1. Using the Multi30k dataset, train Transformer to translate German to English.
