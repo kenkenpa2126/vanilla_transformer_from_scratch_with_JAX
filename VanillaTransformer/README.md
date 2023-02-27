@@ -11,16 +11,16 @@ The main contents are the following.
 
 The key features of this implementation are the following.
 1. Implment *Vanilla* Transformer with original class of MultiHeadAttention and PositionalEncoder.
-1. Made the translator that can tranlate batch by batch, not a sentence by a sentence.
+1. Made the translator that can translate batch by batch, not a sentence by a sentence.
 1. By padding, all source/target sentences to max sequence length, fix an input shape of the jit compiled function, and minimize the number of compile. That enabled it to accelerate training very much!
 1. Usually, both query and key sequeces are masked at the same time and masked position are changed to `jnp.finfo(dtype).min` in attention calculation with JAX/Flax implementation. In this implementation, only key sequences are masked and masked positions are changed to `-jnp.inf` and query sequences are masked in a loss function as common implementations.
 
 The points that can be added in the future are the following.
-1. Use sentencepiece tokenizer in stead of SpaCy tokenizer.
+1. Use sentencepiece tokenizer instead of SpaCy tokenizer.
 1. Implement a beam search tokenizer from scratch.
 1. Implement a functin that calculate BLEU score from scratch.
 
-# Acknowledgement
+# Acknowledgment
 I couldn't finish this work without the advice and support from [@tarowatanabe](https://github.com/tarowatanabe), [@de9uch1](https://github.com/de9uch1), and [@gojiteji](https://github.com/gojiteji). Thank you for all!
 
 # Reference
