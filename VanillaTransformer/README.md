@@ -21,7 +21,7 @@ The points that can be added in the future.
 1. Implement a functin that calculate BLEU score from scratch.
 
 # Acknowledgement
-I couldn't finish this work without the advice and support from @tarowatanabe, @de9uch1, and @gojiteji. Thank you for all!
+I couldn't finish this work without the advice and support from [@tarowatanabe](https://github.com/tarowatanabe), [@de9uch1](https://github.com/de9uch1), and [@gojiteji](https://github.com/gojiteji). Thank you for all!
 
 # Reference
 - Paper
