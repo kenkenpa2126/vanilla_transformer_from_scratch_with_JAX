@@ -7,7 +7,7 @@
     1. Implement *Vanilla* Transformer from scratch.
     1. Using the Multi30k dataset, train Transformer to translate German to English.
     1. Translate some sentences with a greedy search translator.
-    1. Plot attention matrixes.
+    1. Plot attention matrics.
   - Detailed explanation Blog Post (ja): Coming Soon...
   - Detailed explanation Blog Post (en): Coming Soon...
 
