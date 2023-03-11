@@ -8,7 +8,7 @@
     1. Using the Multi30k dataset, train Transformer to translate German to English.
     1. Translate some sentences with a greedy search translator.
     1. Plot attention matrices.
-  - Detailed explanation Blog Post (ja): Coming Soon...
+  - Detailed explanation Blog Post (ja): [JAX/Flaxでゼロから作るTransformer① ―Vanilla Transformer](https://blog.hatena.ne.jp/izmyon/izmyon.hatenablog.com/edit?entry=4207112889968525404)
   - Detailed explanation Blog Post (en): Coming Soon...
 
 ### 2. GPT
