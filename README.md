@@ -9,7 +9,7 @@
     1. Translate some sentences with a greedy search translator.
     1. Plot attention matrices.
   - Detailed explanation Blog Post (ja): [JAX/Flaxでゼロから作るTransformer① ―Vanilla Transformer](https://t.co/SGusJDfmil)
-  - Detailed explanation Blog Post (en): Coming Soon...
+  - Detailed explanation Blog Post (en): [Transformers from scratch with JAX/Flax① ―Vanilla Transformer](https://izmyon.hatenablog.com/entry/2023/03/13/222823)
 
 ### 2. GPT
 Comming Soon...
