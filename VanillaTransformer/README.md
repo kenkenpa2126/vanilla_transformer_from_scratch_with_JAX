@@ -1,4 +1,4 @@
-# *Vanilla* Transformer from scrach with JAX/Flax
+# *Vanilla* Transformer from scratch with JAX/Flax
  This is a first notebook of a tutorial to understand implementation of Transformer Models with JAX/Flax. As a first step, this notebook shows how to implement *Vanilla* Transformer. Transformer Encoder Decoder Model, aka Vanilla Transformer was originally introduced in "Attention is all you need"[1] and is the origin of all derived transformers. Click "Open In Colab" and let's understand Transformer and how to use JAX/Flax!
 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kenkenpa2126/Transformers_from_scratch_with_JAX-Flax/blob/main/VanillaTransformer/VanillaTransformer.ipynb) 
@@ -7,7 +7,7 @@ The main contents are the following.
 1. Implement *Vanilla* Transformer from scratch.
 1. Using the Multi30k dataset, train the transformer to translate German to English.
 1. Translate some sentences with a greedy search translator.
-1. Plot attention matrixes.
+1. Plot attention matrices.
 
 The key features of this implementation are the following.
 1. Implment *Vanilla* Transformer with original class of MultiHeadAttention and PositionalEncoder.

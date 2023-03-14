@@ -7,9 +7,9 @@
     1. Implement *Vanilla* Transformer from scratch.
     1. Using the Multi30k dataset, train Transformer to translate German to English.
     1. Translate some sentences with a greedy search translator.
-    1. Plot attention matrixes.
-  - Detailed explanation Blog Post (ja): Coming Soon...
-  - Detailed explanation Blog Post (en): Coming Soon...
+    1. Plot attention matrices.
+  - Detailed explanation Blog Post (ja): [JAX/Flaxでゼロから作るTransformer① ―Vanilla Transformer](https://t.co/SGusJDfmil)
+  - Detailed explanation Blog Post (en): [Transformers from scratch with JAX/Flax① ―Vanilla Transformer](https://izmyon.hatenablog.com/entry/2023/03/13/222823)
 
 ### 2. GPT
 Comming Soon...
